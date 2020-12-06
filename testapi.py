@@ -7,4 +7,4 @@ for ship in starships['results']:
         e = requests.get(pilot).json()['name']
         print('Pilots:', e)
     if len(ships['pilots'])
-print('This is a test.')hullo my name is nik
+print('This is a test.')
