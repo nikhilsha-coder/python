@@ -6,7 +6,4 @@ for ship in starships['results']:
         print('\n')
         e = requests.get(pilot).json()['name']
         print('Pilots:', e)
-<<<<<<< Updated upstream
     if len(ships['pilots'])
-=======
->>>>>>> Stashed changes
