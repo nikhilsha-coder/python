@@ -1,7 +1,11 @@
 import requests as req
 import time
 import cbpro as cbp
+<<<<<<< Updated upstream
 test_var = 114
+=======
+
+>>>>>>> Stashed changes
 startMoney = 100
 lotSplit = 0.05
 ILA = []
