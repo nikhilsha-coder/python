@@ -1,7 +1,7 @@
 import requests as req
 import time
 import cbpro as cbp
-test_var = 10
+test_var = 114
 startMoney = 100
 lotSplit = 0.05
 ILA = []
