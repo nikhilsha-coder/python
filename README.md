@@ -1,7 +1,8 @@
 # python
 fun python projects
-<<<<<<< Updated upstream
-hulloo
+
+this should save;
 =======
-this should save..
->>>>>>> Stashed changes
+
+hulloo
+
