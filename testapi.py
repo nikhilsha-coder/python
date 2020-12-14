@@ -5,4 +5,8 @@ for ship in starships['results']:
     for pilot in ship['pilots']:
         print('\n')
         e = requests.get(pilot).json()['name']
+
         print('Pilots:', e)
+
+    if len(ships['pilots'])
+
